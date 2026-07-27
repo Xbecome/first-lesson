@@ -1,0 +1,3 @@
+saya baru saja membuat kesalahan dengan tidak menambahkan deskripsi pada commit yang telah saya buat. saya tidak tau bagaimana mengubahnya
+akan coba saya cari tau bagaimana mengubahanya. 
+dan ternyata setelah saya mencari tau tidak bisa mengubah deskripsi commit langsung pada gitubunya
